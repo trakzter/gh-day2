@@ -4,7 +4,6 @@ public class Main {
 
 	    int input = 1;
         result = addfunction(input);
-
     }
 
     public static int addfunction(int value){
